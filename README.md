@@ -2,6 +2,4 @@
 
 🟢 MERN Stack Explore Project
 
-### 📋 tasks
-
-- update workouts
+CRUD APPLICATION
